@@ -1,2 +1,2 @@
-# algorithms_data_sctructure
-Code of algorithms exams
+# My practises
+Practises from C# :)
