@@ -1,2 +1,2 @@
 # My practises
-Practises from C# :)
+Practises from C# and other languages :)
